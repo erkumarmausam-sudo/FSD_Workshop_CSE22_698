@@ -138,7 +138,7 @@ npm run dev
 
 ## 👨‍💻 About Me
 
-**Mausam Rajput**
+<h1><b>**Mausam Rajput**</b></h1>
 
 🎓 B.Tech Computer Science & Engineering Student  
 💻 Aspiring Software Engineer  
