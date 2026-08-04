@@ -91,30 +91,7 @@ FSD_Workshop_CSE22_698/
 
 ---
 
-## 🚀 Getting Started
 
-### 📥 Clone the Repository
-
-```bash
-git clone https://github.com/erkumarmausam-sudo/FSD_Workshop_CSE22_698.git
-```
-
-### 📂 Navigate to the Project
-
-```bash
-cd FSD_Workshop_CSE22_698
-```
-
-### 📦 Install Dependencies
-
-```bash
-npm install
-```
-
-### ▶️ Run the Development Server
-
-```bash
-npm run dev
 ```
 
 ---
