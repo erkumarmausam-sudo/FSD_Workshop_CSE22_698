@@ -75,24 +75,6 @@ Throughout this workshop, I have learned to:
 
 ---
 
-## 📂 Repository Structure
-
-```text
-FSD_Workshop_CSE22_698/
-│── public/
-│── src/
-│── assets/
-│── package.json
-│── package-lock.json
-│── vite.config.js
-│── index.html
-│── README.md
-```
-
----
-
-
-```
 
 ---
 
