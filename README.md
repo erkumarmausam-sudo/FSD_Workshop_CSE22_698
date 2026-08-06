@@ -118,7 +118,6 @@ Contributions, suggestions, and feedback are always welcome! Feel free to:
 - 🌱 Create a new branch
 - 💻 Make your changes
 - 📩 Submit a Pull Request
-
 ---
 
 ## ⭐ Support
