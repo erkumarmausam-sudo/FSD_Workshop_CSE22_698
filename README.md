@@ -19,7 +19,6 @@ This repository contains the projects, assignments, and hands-on exercises compl
 - 📈 Track my learning and project progress
 
 ---
-
 ## 🛠️ Technologies & Tools Used
 
 - 🌐 HTML5
