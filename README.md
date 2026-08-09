@@ -62,7 +62,6 @@ Throughout this workshop, I have learned to:
 - 💡 Enhance problem-solving and debugging skills
 
 ---
-
 ## 💪 Skills Developed
 
 - 🌐 Frontend Web Development
