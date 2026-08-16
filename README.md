@@ -74,7 +74,6 @@ Throughout this workshop, I have learned to:
 - 🚀 Project Organization
 
 ---
----
 
 ## 🌱 Future Enhancements
 
