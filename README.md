@@ -86,7 +86,7 @@ Throughout this workshop, I have learned to:
 - 📚 Continue learning new frontend technologies
 
 ---
-
+ 
 ## 📖 Repository Purpose
 
 🎯 This repository serves as a collection of my **Frontend Stack Development Workshop** projects and assignments. It reflects my continuous learning, practical implementation of frontend concepts, and growth as an aspiring Software Engineer.
