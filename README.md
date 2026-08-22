@@ -5,7 +5,6 @@ Welcome to my **Frontend Stack Development (FSD) Workshop** repository! 🌐✨
 This repository contains the projects, assignments, and hands-on exercises completed during my **Frontend Stack Development Workshop**. It showcases my learning journey as a **B.Tech Computer Science & Engineering student**, where I explore modern frontend technologies and build practical web applications while strengthening my development skills.
 
 ---
-
 ## 🎯 Repository Objectives
 
 ✨ This repository is created to:
