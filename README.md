@@ -6,7 +6,6 @@ This repository contains the projects, assignments, and hands-on exercises compl
 
 ---
 
-
 ## 🎯 Repository Objectives
 
 ✨ This repository is created to:
