@@ -7,15 +7,15 @@ This repository contains the projects, assignments, and hands-on exercises compl
 ---
 ##  Repository Objectives
 
-✨ This repository is created to:
+ This repository is created to:
 
-- 📚 Learn modern frontend development concepts
-- 💻 Build responsive and interactive web applications
-- 🎨 Improve UI/UX design skills
-- ⚛️ Develop projects using React.js
-- 🚀 Understand industry-standard development workflows
-- 🔧 Practice Git & GitHub for version control
-- 📈 Track my learning and project progress
+-  Learn modern frontend development concepts
+-  Build responsive and interactive web applications
+-  Improve UI/UX design skills
+-  Develop projects using React.js
+-  Understand industry-standard development workflows
+-  Practice Git & GitHub for version control
+-  Track my learning and project progress
 
 ---
 ## 🛠️ Technologies & Tools Used
