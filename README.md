@@ -1,4 +1,4 @@
-#  Frontend Stack Development (FSD) Workshop
+ Frontend Stack Development (FSD) Workshop
 
 Welcome to my **Frontend Stack Development (FSD) Workshop** repository! 🌐✨
 
