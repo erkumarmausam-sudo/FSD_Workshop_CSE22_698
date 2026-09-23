@@ -1,6 +1,6 @@
  Frontend Stack Development (FSD) Workshop
 
-Welcome to my **Frontend Stack Development (FSD) Workshop** repository! 🌐✨
+Welcome to my **Frontend Stack Development (FSD) Workshop** repository! ✨
 
 This repository contains the projects, assignments, and hands-on exercises completed during my **Frontend Stack Development Workshop**. It showcases my learning journey as a **B.Tech Computer Science & Engineering student**, where I explore modern frontend technologies and build practical web applications while strengthening my development skills.
 
@@ -28,7 +28,7 @@ This repository contains the projects, assignments, and hands-on exercises compl
 - 🔧 Git
 - 🐙 GitHub
 - 💻 Visual Studio Code
-
+ 
 ---
 
 ## 📌 Project Highlights
@@ -59,7 +59,7 @@ Throughout this workshop, I have learned to:
 - 🚀 Develop applications using Vite
 - 💡 Enhance problem-solving and debugging skills
 
----
+--- 
 ## 💪 Skills Developed
 
 - 🌐 Frontend Web Development
@@ -72,7 +72,7 @@ Throughout this workshop, I have learned to:
 - 🚀 Project Organization
 
 ---
-
+ 
 ## 🌱 Future Enhancements
 
 - 🚀 Build more advanced React projects
