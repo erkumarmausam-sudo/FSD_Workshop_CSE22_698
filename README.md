@@ -1,4 +1,4 @@
- Frontend Stack Development (FSD) Workshop
+# Frontend Stack Development (FSD) Workshop
 
 Welcome to my **Frontend Stack Development (FSD) Workshop** repository! ✨
 
@@ -59,7 +59,8 @@ Throughout this workshop, I have learned to:
 - 🚀 Develop applications using Vite
 - 💡 Enhance problem-solving and debugging skills
 
---- 
+---  
+
 ## 💪 Skills Developed
 
 - 🌐 Frontend Web Development
