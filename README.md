@@ -17,6 +17,7 @@ This repository contains the projects, assignments, and hands-on exercises compl
 -  Practice Git & GitHub for version control
 -  Track my learning and project progress
 
+
 ---
 ##  Technologies & Tools Used
 
@@ -42,6 +43,7 @@ This repository contains the projects, assignments, and hands-on exercises compl
 - 🚀 Interactive User Interfaces
 - 📂 Well-Organized Project Structure
 - 💡 Hands-on Frontend Development Practice
+
 
 ---
 
